@@ -10,13 +10,13 @@ Este repositório documenta uma pesquisa aprofundada sobre as Moedas Digitais de
 
 ## 📖 Sumário
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Objetivos de Estudo](#objetivos-de-estudo)
-- [Metodologia e Tecnologias](#metodologia-e-tecnologias)
-- [Curadoria de Fontes](#curadoria-de-fontes)
-- [Engenharia de Prompts](#engenharia-de-prompts)
-- [Guia Consolidado (Entrega Final)](#guia-consolidado-entrega-final)
-- [Glossário Técnico](#glossário-técnico)
+- [Descrição do Projeto](##descrição-do-projeto)
+- [Objetivos de Estudo](##objetivos-de-estudo)
+- [Metodologia e Tecnologias](##metodologia-e-tecnologias)
+- [Curadoria de Fontes](##curadoria-de-fontes)
+- [Engenharia de Prompts](##engenharia-de-prompts)
+- [Guia Consolidado (Entrega Final)](##guia-consolidado-entrega-final)
+- [Glossário Técnico](##glossário-técnico)
 
 ---
 
